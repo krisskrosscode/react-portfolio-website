@@ -22,14 +22,14 @@ const Footer = () => {
 
 
             <div className="footer__social">
-                <a href="https://www.github.com/krisskrosscode" className="home__social-icon" target='_blank' rel='noopener'>
+                <a href="https://www.github.com/krisskrosscode" className="home__social-icon" target='_blank' rel='noopener noreferrer'>
                     <i class="uil uil-github"></i>
                 </a>
 
-                <a href="https://linkedin.com/in/harshalparteke" className="home__social-icon" target='_blank' rel='noopener'>
+                <a href="https://linkedin.com/in/harshalparteke" className="home__social-icon" target='_blank' rel='noopener noreferrer'>
                     <i class="uil uil-linkedin"></i>
                 </a>
-                <a href="https://www.instagram.com" className="home__social-icon" target='_blank' rel='noopener'>
+                <a href="https://www.instagram.com" className="home__social-icon" target='_blank' rel='noopener noreferrer'>
                     <i class="uil uil-instagram"></i>
                 </a>
             </div>
