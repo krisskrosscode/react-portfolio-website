@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.0ed879d7.css",
-    "main.js": "/react-gh-pages/static/js/main.3dad6ff8.js",
-    "static/media/profile.jpg": "/react-gh-pages/static/media/profile.eef43aa17691b5d6301a.jpg",
-    "static/media/Harshal-CV.pdf": "/react-gh-pages/static/media/Harshal-CV.4af5cda81827521ab966.pdf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.0ed879d7.css.map": "/react-gh-pages/static/css/main.0ed879d7.css.map",
-    "main.3dad6ff8.js.map": "/react-gh-pages/static/js/main.3dad6ff8.js.map"
+    "main.css": "/react-portfolio-website/static/css/main.e9aca586.css",
+    "main.js": "/react-portfolio-website/static/js/main.9ebbde39.js",
+    "static/media/profile.jpg": "/react-portfolio-website/static/media/profile.eef43aa17691b5d6301a.jpg",
+    "static/media/Harshal-CV.pdf": "/react-portfolio-website/static/media/Harshal-CV.4af5cda81827521ab966.pdf",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.e9aca586.css.map": "/react-portfolio-website/static/css/main.e9aca586.css.map",
+    "main.9ebbde39.js.map": "/react-portfolio-website/static/js/main.9ebbde39.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ed879d7.css",
-    "static/js/main.3dad6ff8.js"
+    "static/css/main.e9aca586.css",
+    "static/js/main.9ebbde39.js"
   ]
 }
