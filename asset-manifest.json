@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.0ed879d7.css",
-    "main.js": "/react-gh-pages/static/js/main.d53a9ebf.js",
+    "main.js": "/react-gh-pages/static/js/main.3dad6ff8.js",
     "static/media/profile.jpg": "/react-gh-pages/static/media/profile.eef43aa17691b5d6301a.jpg",
     "static/media/Harshal-CV.pdf": "/react-gh-pages/static/media/Harshal-CV.4af5cda81827521ab966.pdf",
     "index.html": "/react-gh-pages/index.html",
     "main.0ed879d7.css.map": "/react-gh-pages/static/css/main.0ed879d7.css.map",
-    "main.d53a9ebf.js.map": "/react-gh-pages/static/js/main.d53a9ebf.js.map"
+    "main.3dad6ff8.js.map": "/react-gh-pages/static/js/main.3dad6ff8.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed879d7.css",
-    "static/js/main.d53a9ebf.js"
+    "static/js/main.3dad6ff8.js"
   ]
 }
